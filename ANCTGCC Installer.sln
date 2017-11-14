@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ANCTGCC Installer", "ANCTGCC Installer\ANCTGCC Installer.vdproj", "{37F9B412-FCE3-40E7-AEF4-F4743128761D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37F9B412-FCE3-40E7-AEF4-F4743128761D}.Debug|Default.ActiveCfg = Debug
+		{37F9B412-FCE3-40E7-AEF4-F4743128761D}.Debug|Default.Build.0 = Debug
+		{37F9B412-FCE3-40E7-AEF4-F4743128761D}.Release|Default.ActiveCfg = Release
+		{37F9B412-FCE3-40E7-AEF4-F4743128761D}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F9CD9BD-8340-43A6-9A6A-885901F4DBC6}
+	EndGlobalSection
+EndGlobal
